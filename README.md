@@ -7,7 +7,7 @@ Things are borrowed and ideas are tossed away *constantly*.
 
 These ideas and borrowed tactics are eventually formed into sensible, adaptable concepts.
 
-![hero image](IMG_20170906_134113688.jpg)
+![hero image](img.jpeg)
 
 ### A Summary
 
