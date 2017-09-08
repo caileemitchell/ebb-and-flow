@@ -1,6 +1,16 @@
 # A Dao of Web design
 ### By *Cailee Mitchell*
 
+### Ebb & Flow
+#### Work in Progress
+
+ - [Draft](#draft)
+ - [Summary](#a-summary)
+ - [Revision](#revision)
+ - [Best Practices](#best-practices)
+
+- - -
+
 As designers, we are ultimately tasked with keeping up with the internet’s ever-changing ways.
 
 Things are borrowed and ideas are tossed away *constantly*. 
@@ -19,7 +29,7 @@ These ideas and borrowed tactics are eventually formed into sensible, adaptable 
 
 - - -
 
-## *Best Practices*
+## Best Practices
 
 #### Naming Things
 
@@ -28,9 +38,18 @@ These ideas and borrowed tactics are eventually formed into sensible, adaptable 
 
 #### Project (Folder, Repo) Structure
 
-#####For Example:
+##### For Example:
 - ebb-and-flow
   - README.md
   - index.md
   - index.html
   - img/
+
+- - -
+
+## Draft
+
+- - -
+
+## Revision
+
