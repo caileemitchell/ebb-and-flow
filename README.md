@@ -8,6 +8,7 @@
  - [Summary](#a-summary)
  - [Revision](#revision)
  - [Best Practices](#best-practices)
+ - [About The Author](#about-the-author)
 
 - - -
 
@@ -53,3 +54,8 @@ These ideas and borrowed tactics are eventually formed into sensible, adaptable 
 
 ## Revision
 
+- - - 
+
+## About The Author
+
+Cailee is a sophomore Graphic Design student currently residing in Beverly, Massachusetts, studying at Montserrat College of Art. She spends her time designing, taking care of her day-to-day responsibilities as a Resident Assistant, deciding which color to dye her hair next, watching old movies and cheesy anime, and playing the same three video games over and over again. As a designer, she tends to have two methods of attack - a dark side and a vintage side. Pieces tend to jump from skulls and poison all the way to yellow Volkswagon buses and flowers and herbs. Cailee is also trying her luck at printmaking as a new form of design for herself. Not conforming to one side of a design aesthetic tends to keep her on her toes and having a wide range of sketches and variety within my work. 
