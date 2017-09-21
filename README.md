@@ -1,5 +1,6 @@
-# A Summary of A Dao of Web design
-### By *Cailee Mitchell*
+# A Summary of *A Dao of Web Design*
+##### By *Cailee Mitchell*
+
 
 ## Ebb & Flow
  - [Summary](#a-summary)
@@ -22,7 +23,7 @@ To make an adaptable page, use style sheets to aid appearance, not for control, 
 
 Instead of worrying about the appearance of your page and the dpi difference between Mac and PC, worry about audience and functionality. This will prepare both you and your page for success, readability, and most importantly - adaptability.
 
-Read the Full Article of <a href="https://alistapart.com/article/dao">A Dao of Web Design</a> By <a href="https://alistapart.com/author/johnallsopp">John Allsopp</a>
+***Read the Full Article of <a href="https://alistapart.com/article/dao">A Dao of Web Design</a> By <a href="https://alistapart.com/author/johnallsopp">John Allsopp</a>***
 
 - - -
 
@@ -44,6 +45,10 @@ Read the Full Article of <a href="https://alistapart.com/article/dao">A Dao of W
  
  - - -
  ### Notes to Take Away
+ - Consider your audience
+ - Avoid HTML for presentation and appearance purposes - that's what CSS is for.
+ - Be organized
+ - Be *flexible*
  
  - - - 
 
