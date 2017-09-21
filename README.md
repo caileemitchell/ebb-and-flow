@@ -1,12 +1,13 @@
 # A Summary of A Dao of Web design
 ### By *Cailee Mitchell*
 
-### Ebb & Flow
- - [Draft](#draft)
+## Ebb & Flow
  - [Summary](#a-summary)
- - [Revision](#revision)
  - [Best Practices](#best-practices)
+ - [Notes to Take Away](#notes-to-take-away)
  - [About The Author](#about-the-author)
+ - [Draft](#draft)
+ - [Revision](#revision)
 - - -
 
 Designers are ultimately tasked with keeping up with the internet’s ever-changing ways. Things are borrowed and ideas are tossed away constantly. These ideas and borrowed tactics are eventually formed into sensible, adaptable concepts. 
@@ -15,7 +16,7 @@ Designers are ultimately tasked with keeping up with the internet’s ever-chang
 
 ### A Summary
 
-  Factors such as poor eyesight, screen resolution, and the platform being utilized can make adaptability difficult. You need to consider the following in order to have a successful outcome - focus on what your page will do, avoid HTML for presentation purposes, and never rely on style sheets to provide an accessible page. 
+Factors such as poor eyesight, screen resolution, and the platform being utilized can make adaptability difficult. You need to consider the following in order to have a successful outcome - focus on what your page will do, avoid HTML for presentation purposes, and never rely on style sheets to provide an accessible page. 
 
 To make an adaptable page, use style sheets to aid appearance, not for control, and use proper percentages in CSS page layouts. You may also find placing colors sparingly and avoiding point and pixel sizing will make a page more adaptable as well. 
 
@@ -25,7 +26,7 @@ Read the Full Article of <a href="https://alistapart.com/article/dao">A Dao of W
 
 - - -
 
-## Best Practices
+### Best Practices
 
 #### Naming Things
 
@@ -40,10 +41,21 @@ Read the Full Article of <a href="https://alistapart.com/article/dao">A Dao of W
   - index.md
   - index.html
   - img/
+ 
+ - - -
+ ### Notes to Take Away
+ 
+ - - - 
+
+## About The Author
+
+<img align="left" width="100" height="100" src="img/cailee.jpg"> 
+Cailee is a sophomore Graphic Design student currently residing in Beverly, Massachusetts, studying at Montserrat College of Art. She spends her time designing, taking care of her day-to-day responsibilities as a Resident Assistant, deciding which color to dye her hair next, watching anime nobody cares about, and playing the same three video games over and over again.
+(*Psssttt*... Bioshock, Final Fantasy XIII, and Monster Hunter) &#x1f3ae;
 
 - - -
 
-## Draft
+### Draft
 
 As designers, we are ultimately tasked with keeping up with the internet’s ever-changing ways. Things are borrowed and ideas are tossed away constantly. These ideas and borrowed tactics are eventually formed into sensible, adaptable concepts. 
 
@@ -55,7 +67,7 @@ Instead of worrying about the appearance of your page and the dpi difference bet
 
 - - -
 
-## Revision
+### Revision
 
 Designers are ultimately tasked with keeping up with the internet’s ever-changing ways. Things are borrowed and ideas are tossed away constantly. These ideas and borrowed tactics are eventually formed into sensible, adaptable concepts. 
 
@@ -64,11 +76,3 @@ Factors such as poor eyesight, screen resolution, and the platform being utilize
 To make an adaptable page, use style sheets to aid appearance, not for control, and use proper percentages in CSS page layouts. You may also find placing colors sparingly and avoiding point and pixel sizing will make a page more adaptable as well. 
 
 Instead of worrying about the appearance of your page and the dpi difference between Mac and PC, worry about audience and functionality. This will prepare both you and your page for success, readability, and most importantly - adaptability.
-
-- - - 
-
-## About The Author
-
-<img align="left" width="100" height="100" src="img/cailee.jpg"> 
-Cailee is a sophomore Graphic Design student currently residing in Beverly, Massachusetts, studying at Montserrat College of Art. She spends her time designing, taking care of her day-to-day responsibilities as a Resident Assistant, deciding which color to dye her hair next, watching anime nobody cares about, and playing the same three video games over and over again.
-(*Psssttt*... Bioshock, Final Fantasy XIII, and Monster Hunter) &#x1f3ae;
