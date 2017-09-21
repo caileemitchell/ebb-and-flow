@@ -13,7 +13,7 @@
 
 Designers are ultimately tasked with keeping up with the internet’s ever-changing ways. Things are borrowed and ideas are tossed away constantly. These ideas and borrowed tactics are eventually formed into sensible, adaptable concepts. 
 
-![hero image](img/img.jpg)
+![hero image](img/heroimage.jpg)
 
 ### A Summary
 
@@ -45,10 +45,10 @@ Instead of worrying about the appearance of your page and the dpi difference bet
  
  - - -
  ### Things to Remember
- - Consider your audience
+ - Consider your audience.
  - Avoid HTML for presentation and appearance purposes - that's what CSS is for.
- - Be organized
- - Be *flexible*
+ - Be organized.
+ - Be *flexible.*
  
  - - - 
 
