@@ -54,7 +54,7 @@ There are many factors that make this adaptability difficult at times; such as p
 
 How do you create a successful page then? You can use style sheets to aid the appearance of your page, not for control, and use proper percentages in CSS page layouts. Or perhaps you choose to place your colors sparingly and avoid point and pixel sizing. Different readers and different platforms call for endless ways to make your page adaptable for all. 
 
-Instead of worrying about the appearance of your page and the dpi difference between Mac and PC, worry about your audience and functionality. This will prepare both you and your page for success, readability, and most importantly - adaptability.
+Instead of worrying about the appearance of your page and the dpi difference between Mac and PC, worry about your audience and functionality. This will prepare both you and your page for success, readability, and most importantly — *adaptability*.
 
 - - -
 
@@ -72,4 +72,7 @@ Instead of worrying about the appearance of your page and the dpi difference bet
 
 ## About The Author
 
-![Author Image](img/cailee.jpg) Cailee is a sophomore Graphic Design student currently residing in Beverly, Massachusetts, studying at Montserrat College of Art. She spends her time designing, taking care of her day-to-day responsibilities as a Resident Assistant, deciding which color to dye her hair next, watching anime nobody cares about, and playing the same three video games over and over again (*Psssttt*... Bioshock, Final Fantasy XIII, and Monster Hunter).
+<img align="left" width="100" height="100" src="img/cailee.jpg"> 
+Cailee is a sophomore Graphic Design student currently residing in Beverly, Massachusetts, studying at Montserrat College of Art. She spends her time designing, taking care of her day-to-day responsibilities as a Resident Assistant, deciding which color to dye her hair next, watching anime nobody cares about, and playing the same three video games over and over again.
+
+(*Psssttt*... Bioshock, Final Fantasy XIII, and Monster Hunter)
