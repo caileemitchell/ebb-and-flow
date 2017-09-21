@@ -5,7 +5,7 @@
 ## Ebb & Flow
  - [Summary](#a-summary)
  - [Best Practices](#best-practices)
- - [Notes to Take Away](#notes-to-take-away)
+ - [Things to Remember](#things-to-remember)
  - [About The Author](#about-the-author)
  - [Draft](#draft)
  - [Revision](#revision)
@@ -21,7 +21,7 @@ Factors such as poor eyesight, screen resolution, and the platform being utilize
 
 To make an adaptable page, use style sheets to aid appearance, not for control, and use proper percentages in CSS page layouts. You may also find placing colors sparingly and avoiding point and pixel sizing will make a page more adaptable as well. 
 
-Instead of worrying about the appearance of your page and the dpi difference between Mac and PC, worry about audience and functionality. This will prepare both you and your page for success, readability, and most importantly - adaptability.
+Instead of worrying about the appearance of your page and the dpi difference between Mac and PC, worry about audience and functionality. This will prepare both you and your page for success, readability, and most importantly — *adaptability*.
 
 ***Read the Full Article of <a href="https://alistapart.com/article/dao">A Dao of Web Design</a> By <a href="https://alistapart.com/author/johnallsopp">John Allsopp</a>***
 
@@ -44,7 +44,7 @@ Instead of worrying about the appearance of your page and the dpi difference bet
   - img/
  
  - - -
- ### Notes to Take Away
+ ### Things to Remember
  - Consider your audience
  - Avoid HTML for presentation and appearance purposes - that's what CSS is for.
  - Be organized
