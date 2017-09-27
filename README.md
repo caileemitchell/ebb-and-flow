@@ -9,6 +9,7 @@
  - [About The Author](#about-the-author)
  - [Draft](#draft)
  - [Revision](#revision)
+ - [Final](#final)
 - - -
 
 Designers are ultimately tasked with keeping up with the internet’s ever-changing ways. Things are borrowed and ideas are tossed away constantly. These ideas and borrowed tactics are eventually formed into sensible, adaptable concepts. 
@@ -56,7 +57,7 @@ Instead of worrying about the appearance of your page and the dpi difference bet
 
 <img align="left" width="100" height="100" src="img/cailee.jpg"> 
 Cailee is a sophomore Graphic Design student currently residing in Beverly, Massachusetts, studying at Montserrat College of Art. She spends her time designing, taking care of her day-to-day responsibilities as a Resident Assistant, deciding which color to dye her hair next, watching anime nobody cares about, and playing the same three video games over and over again.
-(*Psssttt*... Bioshock, Final Fantasy XIII, and Monster Hunter) &#x1f3ae;
+(*Psssttt*... Bioshock, Final Fantasy XIII, and Monster Hunter)
 
 - - -
 
@@ -81,3 +82,11 @@ Factors such as poor eyesight, screen resolution, and the platform being utilize
 To make an adaptable page, use style sheets to aid appearance, not for control, and use proper percentages in CSS page layouts. You may also find placing colors sparingly and avoiding point and pixel sizing will make a page more adaptable as well. 
 
 Instead of worrying about the appearance of your page and the dpi difference between Mac and PC, worry about audience and functionality. This will prepare both you and your page for success, readability, and most importantly - adaptability.
+
+- - -
+
+### Final
+
+- [Index.html](https://caileemitchell.github.io/ebb-and-flow/)
+- [Summary.html](https://caileemitchell.github.io/ebb-and-flow/summary.html)
+- [Summary.md](https://caileemitchell.github.io/ebb-and-flow/summary.md)
