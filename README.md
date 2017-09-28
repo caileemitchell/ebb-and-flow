@@ -12,7 +12,11 @@
  - [Final](#final)
 - - -
 
-Designers are ultimately tasked with keeping up with the internet’s ever-changing ways. Things are borrowed and ideas are tossed away constantly. These ideas and borrowed tactics are eventually formed into sensible, adaptable concepts. 
+Designers are ultimately tasked with keeping up with the internet’s ever-changing ways. 
+
+Things are borrowed and ideas are tossed away constantly. 
+
+These ideas and borrowed tactics are eventually formed into sensible, adaptable concepts. 
 
 ![hero image](img/heroimage.jpg)
 
