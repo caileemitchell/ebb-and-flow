@@ -18,7 +18,7 @@ Things are borrowed and ideas are tossed away constantly.
 
 These ideas and borrowed tactics are eventually formed into sensible, adaptable concepts. 
 
-![hero image](img/heroimage.jpg)
+![hero image](img/hero-image-cailee-mitchell.png)
 
 ### A Summary
 
@@ -59,7 +59,7 @@ Instead of worrying about the appearance of your page and the dpi difference bet
 
 ## About The Author
 
-<img align="left" width="100" height="100" src="img/cailee.jpg"> 
+<img align="left" width="100" height="100" src="img/headshot-cailee-mitchell.jpg"> 
 Cailee is a sophomore Graphic Design student currently residing in Beverly, Massachusetts, studying at Montserrat College of Art. She spends her time designing, taking care of her day-to-day responsibilities as a Resident Assistant, deciding which color to dye her hair next, watching anime nobody cares about, and playing the same three video games over and over again.
 (*Psssttt*... Bioshock, Final Fantasy XIII, and Monster Hunter)
 
