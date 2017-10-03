@@ -1,0 +1,176 @@
+html {
+  font-size: 100%;
+  line-height: 1.15; /* line height has a unit-less value */
+  }
+
+/* --- flexible images --- */
+
+img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  }
+
+/* --- layout --- */
+/* main text margin offset */
+.margin-offset {
+  margin-right: 10%;
+  margin-left: 10%;
+
+  }
+/* --- section --- */
+
+section.author {
+  padding-top: 1em;
+  border-top: 1px solid black;
+  }
+
+/* --- body ---*/
+
+body {
+  width: 90%;
+  max-width: 60em; /* 960 px */
+  margin: 1em auto; /* 1em=16px */
+  }
+
+header {
+  font-size: 100%;
+  text-align: center;
+  font-family: sans-serif;
+  }
+
+main {
+  margin: 3em 0 0;
+  }
+
+/* --- figures --- */
+figure {
+  margin: 0;
+  }
+
+figure.artwork {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1em;
+  }
+
+figcaption.credit {
+  text-align: right;
+  }
+
+/* grayscale (black to white) 0123456789abcdef */
+
+figure.headshot {
+  float: left;
+  width: 7.5em;
+  height: 7.5em;
+  border: .5em solid #eee;
+  border-radius: 50%;
+  margin: .25em 1em .75em 0;
+  overflow: hidden;
+  }
+
+/* descendent selector */
+
+figure.headshot img {
+  max-width: 100%;
+  max-height: 100%;
+  }
+
+  /* --- typography --- */
+a {
+  font-weight: bold;
+  color: #2455c3;
+  text-decoration: none;
+  }
+
+a:hover {
+  text-decoration: underline;
+  }
+
+h1 {
+  font-size: 2.25em;
+  line-height: 1.167;
+  margin-top: 0;
+  margin-bottom: .375em;
+  }
+
+h2 {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  }
+
+main.ul {
+  list-style: disc;
+  padding-left: 1.4em;
+  margin: 1.875em 0;
+
+  }
+
+main p,
+main li {
+  /* text-indent: 1em; */
+  font: 1.125em/1.667 Georgia, serif;
+  /*
+font-size: 1.125em;
+  line-height: 1.667;
+  font-family: Georgia, serif;
+ */
+ margin: 0 0 1.53em;
+  /*
+margin-top: 0;
+  margin-bottom: 1.5em;
+ */
+  }
+
+main li {
+  margin-bottom: .5em;
+  }
+
+p.byline {
+  margin-bottom: .75em;
+  }
+
+section.author h3 {
+  font: bold 1.125em/1.333 sans-serif;
+  margin-bottom: .75em;
+  }
+
+section.author p {
+  font: .875em/1.714 Georgia, serif;
+  margin-top: .1em;
+  }
+
+/* p:first-child */
+p.lead-in {
+  font-size: 1.5em;
+  margin-right: -10%;
+  margin-left: -10%;
+  }
+
+blockquote {
+  margin-top: 0;
+  margin-bottom: 0;
+  }
+
+
+
+/* --- wider screens --- */
+@media (min-width: 48em) {
+
+div.bio {
+  margin-left: 9.375em;
+  }
+
+figure.headshot {
+  margin-right: 0;
+  }
+
+  }
+
+
+
+
