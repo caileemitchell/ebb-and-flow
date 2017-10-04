@@ -1,5 +1,5 @@
 # A Summary of *A Dao of Web Design*
-##### By *Cailee Mitchell*
+##### By Cailee Mitchell
 
 
 ## Ebb & Flow
@@ -67,7 +67,9 @@ Cailee is a sophomore Graphic Design student currently residing in Beverly, Mass
 
 ### Draft
 
-As designers, we are ultimately tasked with keeping up with the internet’s ever-changing ways. Things are borrowed and ideas are tossed away constantly. These ideas and borrowed tactics are eventually formed into sensible, adaptable concepts. 
+As designers, we are ultimately tasked with keeping up with the internet’s ever-changing ways. Things are borrowed and ideas are tossed away constantly. These ideas and borrowed tactics are eventually formed into sensible, adaptable concepts.
+
+![Hero Image Version 1](img/hero-image-first-version.png)
 
 There are many factors that make this adaptability difficult at times; such as poor eyesight, screen resolution, and the platform being utilized. You need to consider the following in order to have a successful outcome - focus on what your page will do, avoid HTML for presentation purposes, and never rely on style sheets to provide an accessible page. 
 
